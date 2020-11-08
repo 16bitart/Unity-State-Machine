@@ -1,4 +1,4 @@
-# UnityStateMachine (Incomplete)
+# UnityStateMachine
 
 
 Demonstration of Finite State Machine within Unity.
